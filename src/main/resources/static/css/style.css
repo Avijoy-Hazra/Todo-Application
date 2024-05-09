@@ -1,0 +1,16 @@
+body {
+    /* background: red !important; */
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+span.error {
+    color: red !important;
+}
+
+#myCarousel{
+    margin-top: 8px;
+}
